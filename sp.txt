@@ -1,0 +1,4 @@
+SHARED PREFERENCES:
+--->This is also one way to store data for android application.
+--->these are used to store primitive type of data in the form of key and value pairs.
+--->Data in the app exist even after killing the app
